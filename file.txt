@@ -1,11 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 72FB-8702
-
- Directory of C:\Users\Student\Desktop\nir
-
-13-04-2023  10:52    <DIR>          .
-13-04-2023  10:52    <DIR>          ..
-13-04-2023  10:52                 0 file.txt
-13-04-2023  10:52                 0 New Text Document.txt
-               2 File(s)              0 bytes
-               2 Dir(s)  131,243,630,592 bytes free
+ 
